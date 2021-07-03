@@ -28,8 +28,8 @@ python3 chat.py 127.0.0.1
 ### Commands to execute on the client:
 ```
 <MESSAGE>                       -->    Send a general message to everyone
-.list                           -->    List all the users in the chat: 
-.priv <DST_USERNAME> <MESSAGE>  -->    Send a private message to a user: $ .priv <Dst_Nick> <Message>
+.list                           -->    List all the users in the chat
+.priv <DST_USERNAME> <MESSAGE>  -->    Send a private message to a user
 .nick <OLD_NICK> <NEW_NICK>     -->    Change the nickname of a user
 .quit                           -->    Exit the chat
 .help                           -->    See the help manual
@@ -51,8 +51,8 @@ python3 siduck_client5.0.py 127.0.0.1 4433 -k
 ### Commands to execute on the client:
 ```
 <MESSAGE>                       -->    Send a general message to everyone
-.list                           -->    List all the users in the chat: 
-.priv <DST_USERNAME> <MESSAGE>  -->    Send a private message to a user: $ .priv <Dst_Nick> <Message>
+.list                           -->    List all the users in the chat
+.priv <DST_USERNAME> <MESSAGE>  -->    Send a private message to a user
 .nick <OLD_NICK> <NEW_NICK>     -->    Change the nickname of a user
 .quit                           -->    Exit the chat
 .help                           -->    See the help manual
