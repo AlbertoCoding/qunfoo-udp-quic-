@@ -13,7 +13,7 @@ python3 X --menu       ---> Shows the main panel
 
 
 ## Details / Requirements:
------------------------
+
 This is the repository with the programs developed:
 * QUNFOO chat over UDP (client + server)
 * QUNFOO chat over QUIC (client)
@@ -22,7 +22,7 @@ This is the repository with the programs developed:
 
 
 ## Some references to websites that made this tool possible (code help, ideas, etc):
--------------------------------------------------------------------------------
+
 * https://github.com/aiortc/aioquic
 * More pending to be added
 
