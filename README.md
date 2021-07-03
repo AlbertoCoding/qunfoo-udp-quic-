@@ -23,8 +23,8 @@ This is the repository with the programs developed:
 
 ## Some references to websites that made this tool possible (code help, ideas, etc):
 -------------------------------------------------------------------------------
-https://github.com/aiortc/aioquic
-More pending to be added
+* https://github.com/aiortc/aioquic
+* More pending to be added
 
 
 Author: Alberto
