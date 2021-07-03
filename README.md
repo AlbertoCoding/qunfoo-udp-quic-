@@ -1,29 +1,3 @@
-Protocols, QUNFOO over UDP and QUIC, Wireshark dissector
-========================================================
-
-This is the repository with the programs developed
-
-USAGE
--------
-python3 X -h          ---> Shows the help information  
-python3 X --menu       ---> Shows the main panel  
-
-
-Details / Requirements:
------------------------
-This is the repository with the programs developed
-
-
-Some references to websites that made this tool possible (code help, ideas, etc):
--------------------------------------------------------------------------------
-https://XXX
-More pending to be added
-
-
-
-Alberto
-
-
 # Protocols, QUNFOO over UDP and QUIC, Wireshark dissector
 [Python 3]
 
@@ -34,7 +8,7 @@ This is the repository with the programs developed
 -------
 
 ```
-python3 X -h          ---> Shows the help information  
+python3 X -h           ---> Shows the help information  
 python3 X --menu       ---> Shows the main panel  
 ```
 
@@ -53,3 +27,5 @@ This is the repository with the programs developed:
 https://XXX
 More pending to be added
 
+
+Author: Alberto
