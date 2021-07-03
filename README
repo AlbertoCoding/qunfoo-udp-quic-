@@ -1,0 +1,26 @@
+Protocols, QUNFOO over UDP and QUIC, Wireshark dissector
+========================================================
+
+
+
+The new intelligence powered assistant for browsing and finding hacking scripts, commands, suggestions, security tutorial, guides and advisory.
+
+USAGE
+-------
+python3 X -h          ---> Shows the help information  
+python3 X --menu       ---> Shows the main panel  
+
+
+Details / Requirements:
+-----------------------
+This is the repository with the programs developed
+
+
+Some references to websites that made this tool possible (code help, ideas, etc):
+-------------------------------------------------------------------------------
+https://XXX
+More pending to be added
+
+
+
+Alberto
